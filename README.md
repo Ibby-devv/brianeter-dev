@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brianeter-dev
+- 👀 I’m interested in Web3/Web Dev
+- 🌱 I’m currently learning React, Typescript, CSS
+- 💞️ I’m looking to collaborate on Web3/Frontend Projects
+- 📫 How to reach me reach me on Twitter @MoonDabber
