@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianeter-dev
+- 👋 Hi, I’m @Ibby-Devv
 - 👀 I’m interested in Web3/Web Dev
 - 🌱 I’m currently learning React, Typescript, CSS
 - 💞️ I’m looking to collaborate on Web3/Frontend Projects
